@@ -26,7 +26,7 @@ pytz==2019.2
 setuptools==41.2.0
 # sqlite==3.29.0
 sqlparse==0.3.0
-tk==8.6.8
+# tk==8.6.8
 wheel==0.33.6
 whitenoise==4.1.4
 xz==5.2.4
