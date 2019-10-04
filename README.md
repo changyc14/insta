@@ -13,4 +13,4 @@ News Feed
 User Profile
 ![Image_Profile](https://github.com/changyc14/insta/blob/master/misc/sample.png)
 
-The website would be available soon. Still need to add some functionality to the prototype to make it better.
+The website would be available soon. Still need to add more functionalities to make it better.
