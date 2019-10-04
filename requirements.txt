@@ -31,4 +31,4 @@ wheel==0.33.6
 whitenoise==4.1.4
 # xz==5.2.4
 # zlib==1.2.11
-zstd==1.3.7
+# zstd==1.3.7
