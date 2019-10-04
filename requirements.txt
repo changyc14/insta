@@ -22,7 +22,7 @@ olefile==0.46
 pillow==6.1.0
 # python==3.7.4
 pytz==2019.2
-readline==7.0
+# readline==7.0
 setuptools==41.2.0
 sqlite==3.29.0
 sqlparse==0.3.0
