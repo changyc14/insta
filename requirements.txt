@@ -16,7 +16,7 @@ gunicorn==19.9.0
 # libffi==3.2.1
 # libpng==1.6.37
 # libtiff==4.0.10
-ncurses==6.1
+# ncurses==6.1
 olefile==0.46
 openssl==1.1.1c
 pillow==6.1.0
