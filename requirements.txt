@@ -3,7 +3,7 @@
 # platform: osx-64
 # ca-certificates=2019.9.11=hecc5488_0
 # certifi=2019.9.11=py37_0
-django==2.2.5
+django==2.2.21
 django-annoying==0.10.5
 django-appconf==1.0.3
 django-imagekit==4.0.2
