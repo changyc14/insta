@@ -27,7 +27,7 @@ setuptools==41.2.0
 # sqlite==3.29.0
 sqlparse==0.3.0
 # tk==8.6.8
-wheel==0.33.6
+wheel==0.38.1
 whitenoise==4.1.4
 # xz==5.2.4
 # zlib==1.2.11
